@@ -10,6 +10,8 @@
 		CD1614861BD4C88500593745 /* VVMyButton.m in Sources */ = {isa = PBXBuildFile; fileRef = CD1614811BD4C88500593745 /* VVMyButton.m */; };
 		CD1614871BD4C88500593745 /* VVNodes.m in Sources */ = {isa = PBXBuildFile; fileRef = CD1614831BD4C88500593745 /* VVNodes.m */; };
 		CD1614881BD4C88500593745 /* VVTreeFeeding.m in Sources */ = {isa = PBXBuildFile; fileRef = CD1614851BD4C88500593745 /* VVTreeFeeding.m */; };
+		CD28979D1BD7A25C0054BA56 /* TreeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CD28979B1BD7A25C0054BA56 /* TreeCell.m */; };
+		CD28979E1BD7A25C0054BA56 /* TreeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD28979C1BD7A25C0054BA56 /* TreeCell.xib */; };
 		CDDCDA141B8C2DCA00938599 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CDDCDA131B8C2DCA00938599 /* main.m */; };
 		CDDCDA171B8C2DCA00938599 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CDDCDA161B8C2DCA00938599 /* AppDelegate.m */; };
 		CDDCDA1A1B8C2DCA00938599 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CDDCDA191B8C2DCA00938599 /* ViewController.m */; };
@@ -17,8 +19,6 @@
 		CDDCDA1F1B8C2DCA00938599 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDDCDA1E1B8C2DCA00938599 /* Images.xcassets */; };
 		CDDCDA221B8C2DCA00938599 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDDCDA201B8C2DCA00938599 /* LaunchScreen.xib */; };
 		CDDCDA2E1B8C2DCA00938599 /* ExpCollTreeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CDDCDA2D1B8C2DCA00938599 /* ExpCollTreeTests.m */; };
-		CDDCDA421B8C3E7900938599 /* TreeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = CDDCDA401B8C3E7900938599 /* TreeCell.m */; };
-		CDDCDA431B8C3E7900938599 /* TreeCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = CDDCDA411B8C3E7900938599 /* TreeCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +38,9 @@
 		CD1614831BD4C88500593745 /* VVNodes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VVNodes.m; sourceTree = "<group>"; };
 		CD1614841BD4C88500593745 /* VVTreeFeeding.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VVTreeFeeding.h; sourceTree = "<group>"; };
 		CD1614851BD4C88500593745 /* VVTreeFeeding.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VVTreeFeeding.m; sourceTree = "<group>"; };
+		CD28979A1BD7A25C0054BA56 /* TreeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TreeCell.h; sourceTree = "<group>"; };
+		CD28979B1BD7A25C0054BA56 /* TreeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TreeCell.m; sourceTree = "<group>"; };
+		CD28979C1BD7A25C0054BA56 /* TreeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TreeCell.xib; sourceTree = "<group>"; };
 		CDDCDA0E1B8C2DCA00938599 /* ExpCollTree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExpCollTree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDDCDA121B8C2DCA00938599 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDDCDA131B8C2DCA00938599 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -51,9 +54,6 @@
 		CDDCDA271B8C2DCA00938599 /* ExpCollTreeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ExpCollTreeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDDCDA2C1B8C2DCA00938599 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CDDCDA2D1B8C2DCA00938599 /* ExpCollTreeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExpCollTreeTests.m; sourceTree = "<group>"; };
-		CDDCDA3F1B8C3E7900938599 /* TreeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TreeCell.h; sourceTree = "<group>"; };
-		CDDCDA401B8C3E7900938599 /* TreeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TreeCell.m; sourceTree = "<group>"; };
-		CDDCDA411B8C3E7900938599 /* TreeCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TreeCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,11 +88,21 @@
 			path = Tree;
 			sourceTree = "<group>";
 		};
+		CD2897991BD7A23B0054BA56 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				CD28979A1BD7A25C0054BA56 /* TreeCell.h */,
+				CD28979B1BD7A25C0054BA56 /* TreeCell.m */,
+				CD28979C1BD7A25C0054BA56 /* TreeCell.xib */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
 		CDDCDA051B8C2DCA00938599 = {
 			isa = PBXGroup;
 			children = (
+				CD2897991BD7A23B0054BA56 /* Cells */,
 				CD16147F1BD4C88500593745 /* VVTree */,
-				CDDCDA3E1B8C3E5700938599 /* Cells */,
 				CDDCDA101B8C2DCA00938599 /* ExpCollTree */,
 				CDDCDA2A1B8C2DCA00938599 /* ExpCollTreeTests */,
 				CDDCDA0F1B8C2DCA00938599 /* Products */,
@@ -147,16 +157,6 @@
 				CDDCDA2C1B8C2DCA00938599 /* Info.plist */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		CDDCDA3E1B8C3E5700938599 /* Cells */ = {
-			isa = PBXGroup;
-			children = (
-				CDDCDA3F1B8C3E7900938599 /* TreeCell.h */,
-				CDDCDA401B8C3E7900938599 /* TreeCell.m */,
-				CDDCDA411B8C3E7900938599 /* TreeCell.xib */,
-			);
-			name = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,7 +240,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CDDCDA1D1B8C2DCA00938599 /* Main.storyboard in Resources */,
-				CDDCDA431B8C3E7900938599 /* TreeCell.xib in Resources */,
+				CD28979E1BD7A25C0054BA56 /* TreeCell.xib in Resources */,
 				CDDCDA221B8C2DCA00938599 /* LaunchScreen.xib in Resources */,
 				CDDCDA1F1B8C2DCA00938599 /* Images.xcassets in Resources */,
 			);
@@ -266,7 +266,7 @@
 				CDDCDA171B8C2DCA00938599 /* AppDelegate.m in Sources */,
 				CD1614861BD4C88500593745 /* VVMyButton.m in Sources */,
 				CDDCDA141B8C2DCA00938599 /* main.m in Sources */,
-				CDDCDA421B8C3E7900938599 /* TreeCell.m in Sources */,
+				CD28979D1BD7A25C0054BA56 /* TreeCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

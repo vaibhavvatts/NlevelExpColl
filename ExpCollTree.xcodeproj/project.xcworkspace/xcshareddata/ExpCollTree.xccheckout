@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8AF80AF2-E6CA-4776-9A89-1B829DFF8E48</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ExpCollTree</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C75E09057BDBC1690E185103F0FB519E13572C77</key>
+		<string>https://github.com/vaibhavvatts/NlevelExpColl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ExpCollTree.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C75E09057BDBC1690E185103F0FB519E13572C77</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vaibhavvatts/NlevelExpColl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C75E09057BDBC1690E185103F0FB519E13572C77</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C75E09057BDBC1690E185103F0FB519E13572C77</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NlevelExpColl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
